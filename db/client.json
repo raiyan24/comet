@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "photo" : "https://uylab.org/wp-content/uploads/2020/12/slider2-286x144.jpg"
+    },
+    {
+        "id" : 2,
+        "photo" : "https://uylab.org/wp-content/uploads/2020/12/slider1-286x144.jpg"
+    },
+    {
+        "id" : 3,
+        "photo" : "https://uylab.org/wp-content/uploads/2020/12/slider6-286x144.jpg"
+    },
+    {
+        "id" : 4,
+        "photo" : "https://uylab.org/wp-content/uploads/2020/12/slider5-286x144.jpg"
+    },
+    {
+        "id" : 5,
+        "photo" : "https://uylab.org/wp-content/uploads/2020/12/slider4-285x144.jpg"
+    },
+    {
+        "id" : 6,
+        "photo" : "https://uylab.org/wp-content/uploads/2020/12/slider3-285x144.jpg"
+    }
+]

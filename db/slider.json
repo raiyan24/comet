@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "title" : "ঘরে বসে বাজার করুন",
+        "desc" : "ঘরে বসে বাজার করুন দ্রুত বাজার বুঝে নিন।",
+        "photo" : "https://media.istockphoto.com/photos/isolated-of-shipping-paper-boxes-inside-blue-shopping-cart-trolley-on-picture-id1306668349?b=1&k=20&m=1306668349&s=170667a&w=0&h=lyTN3Kasg206073u4GMW2VwBzil8juVpt3nsqithplw="
+    },
+    {
+        "id" : 2,
+        "title" : "সর্বোত্তম সেবা",
+        "desc" : "সর্বোত্তম সেবার প্রতিশ্রুতি নিয়ে আমরা আছি আপনার পাশে",
+        "photo" : "https://img.freepik.com/free-photo/group-diverse-people-having-business-meeting_53876-25060.jpg?w=2000"
+    },
+    {
+        "id" : 3,
+        "title" : " দ্রুত ডেলিভারি ",
+        "desc" : "আমাদের রয়েছে দক্ষ ডেলিভারি টিম",
+        "photo" : "https://img.freepik.com/free-photo/delivery-man-holds-box-yellow-background-with-boxes_185193-70053.jpg?w=2000"
+    }
+]

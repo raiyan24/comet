@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "title" : "Pran Premium Ghee",
+        "price" : "৳180",
+        "Catagory" : "Food",
+        "tag" : "Ghee",
+        "rating" : 5,
+        "photo" : "https://chaldn.com/_mpimage/pran-premium-ghee-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98715&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 2,
+        "title" : "Boal Fish After Cutting",
+        "price" : "৳709",
+        "Catagory" : "Food",
+        "tag" : "fish",
+        "rating" : 3,
+        "photo" : "https://chaldn.com/_mpimage/boal-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103527&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 3,
+        "title" : "Harpic Toilet Cleaner",
+        "price" : "৳185",
+        "Catagory" : "Cleaning Supplies",
+        "tag" : "washing",
+        "rating" : 1,
+        "photo" : "https://chaldn.com/_mpimage/harpic-toilet-cleaner-free-lizol-citrus-200-ml-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112317&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 4,
+        "title" : "Trix Dishwashing",
+        "price" : "৳140",
+        "Catagory" : "Cleaning Supplies",
+        "tag" : "washing",
+        "rating" : 2,
+        "photo" : "https://chaldn.com/_mpimage/trix-dishwashing-liquid-refill-double-pack-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94617&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 5,
+        "title" : "Trash Bag Black",
+        "price" : "৳179",
+        "Catagory" : "Cleaning Accessories",
+        "tag" : "Bag",
+        "rating" : 4,
+        "photo" : "https://chaldn.com/_mpimage/trash-bag-black-20-x-30-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49765&q=low&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 6,
+        "title" : "Molfix Pure & Soft Premium Diaper",
+        "price" : "৳1,689",
+        "Catagory" : "Baby Care",
+        "tag" : "Diapers",
+        "rating" : 7,
+        "photo" : "https://chaldn.com/_mpimage/molfix-pure-soft-premium-diaper-3-6-kg-64-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91939&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 7,
+        "title" : "Nomad Ladies Bag Ash",
+        "price" : "৳1,450",
+        "Catagory" : "Fashion & Lifestyle",
+        "tag" : "Bag",
+        "rating" : 6,
+        "photo" : "https://chaldn.com/_mpimage/nomad-ladies-bag-ash-mini-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D111811&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 8,
+        "title" : "Dettol Handwash",
+        "price" : "৳95",
+        "Catagory" : "Personal Care",
+        "tag" : "Handwash",
+        "rating" : 8,
+        "photo" : "https://chaldn.com/_mpimage/dettol-handwash-re-energize-liquid-pump-mug-free-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D112251&q=best&v=1&m=400&webp=1"
+    },
+    {
+        "id" : 9,
+        "title" : "Almer Hand Sanitizer",
+        "price" : "৳480",
+        "Catagory" : "Personal Care",
+        "tag" : "Handwash",
+        "rating" : 9,
+        "photo" : "https://chaldn.com/_mpimage/almer-hand-sanitizer-free-shoe-sanitizer-50-ml-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79073&q=best&v=1&m=400&webp=1"
+    }
+]
