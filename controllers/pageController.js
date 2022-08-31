@@ -20,7 +20,7 @@ const showSingleBlogPage = (req, res) => {
     const single_post = posts.find( data => data.id == req.params.id );
 
     res.render('single', {
-        single : single_post
+        post : single_post
     });
 }
 
